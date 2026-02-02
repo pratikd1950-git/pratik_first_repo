@@ -13,3 +13,15 @@ sd.v'ldsmv;sfdvl.]
 v
 sd;mvksfv,
 sf/v';sfmvSF
+
+Important Data
+A few common things people mean (tell me which one fits, or add your own):
+Use Git with Python projects that process data
+(best practices for versioning datasets, .gitignore, DVC, etc.)
+Access data from GitHub using Python
+(clone repos, download CSV/JSON files, use the GitHub API)
+Control Git from Python code
+(using gitpython, running git commands programmatically)
+Data science workflow with Git
+(branching, experiments, notebooks, reproducibility)
+Something else entirely — quick description works 
