@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 one day Cup Boycott: Pakistan's cricket captain confirmed the team will boycott their match against India in the upcoming T20 World Cup, leading to a forfeit of points. sjjj
+=======
+T20 World Cup Boycott: Pakistan's cricket captain confirmed the team will boycott their match against India in the upcoming T20 World Cup, leading to a forfeit of points.
+>>>>>>> cf007b0bb41b20de48395e867fa955c47adc0c2d
