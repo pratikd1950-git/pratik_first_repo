@@ -25,3 +25,8 @@ Control Git from Python code
 Data science workflow with Git
 (branching, experiments, notebooks, reproducibility)
 Something else entirely — quick description works 
+
+
+
+Trump and Iran Standoff: President Trump has set a deadline for Iran to reach a "fair and equitable deal" or face potential US military strikes, while Iran's supreme leader warns of a regional war if attacked.
+Costa Rica Election: Right-wing candidate Laura Fernandez holds a commanding lead in early results of the presidential race.
